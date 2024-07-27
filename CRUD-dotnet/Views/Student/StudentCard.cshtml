@@ -1,0 +1,33 @@
+﻿@using CRUDdotnet.ViewModel
+
+@model StudentViewModel
+@{
+    <head>
+    <style>
+        h3 {
+            font-size: 1.5em;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .data-field {
+            margin-bottom: 8px;
+            padding: 5px;
+            background-color: #f8f8f8;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+
+        .data-field strong {
+            color: #555;
+            font-weight: bold;
+            margin-right: 5px;
+        }
+    </style>
+</head>
+	    <h3>Student Information</h3>
+        <div class="data-field"><strong>Id:</strong> @Model.std.Id</div>
+    <div class="data-field"><strong>Name:</strong> @Model.std.Name</div>
+    <div class="data-field"><strong>Age:</strong> @Model.std.Age</div>
+    <div class="data-field"><strong>Department:</strong> @Model.Departmets.FirstOrDefault(x => x.Id == @Model.std.DepartmentId).Name</div>
+}
