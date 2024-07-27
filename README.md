@@ -5,7 +5,7 @@ This project is a simple ASP.NET MVC web application that demonstrates basic CRU
 ## Features
 
 - **Code-First Database:** Automatically generates the database schema from model classes.
-- **CRUD Operations:** Supports creating, viewing, updating, and deleting records.
+- **CRUD Operations:** Supports creating, viewing, updating, and deleting records with validations.
 - **User-Friendly Interface:** Simple and intuitive UI for easy navigation.
 
 ## Technologies Used
