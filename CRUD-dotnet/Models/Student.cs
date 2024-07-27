@@ -23,6 +23,7 @@ namespace CRUDdotnet.Models
         [ForeignKey("Department")]
         [Display(Name = "Department Id")]
         public virtual int DepartmentId { get; set; }
+        public virtual Department? Dept { get; set; }
 
         public static implicit operator List<object>(Student? v)
         {

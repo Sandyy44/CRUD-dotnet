@@ -134,3 +134,4 @@ C:\Users\Sandy 3Laa\source\repos\CRUD-dotnet\CRUD-dotnet\obj\Debug\net8.0\refint
 C:\Users\Sandy 3Laa\source\repos\CRUD-dotnet\CRUD-dotnet\obj\Debug\net8.0\CRUDdotnet.pdb
 C:\Users\Sandy 3Laa\source\repos\CRUD-dotnet\CRUD-dotnet\obj\Debug\net8.0\CRUDdotnet.genruntimeconfig.cache
 C:\Users\Sandy 3Laa\source\repos\CRUD-dotnet\CRUD-dotnet\obj\Debug\net8.0\ref\CRUDdotnet.dll
+C:\Users\Sandy 3Laa\Source\Repos\CRUD-dotnet\CRUD-dotnet\obj\Debug\net8.0\CRUDdotnet.sourcelink.json
