@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sandy 3Laa\\source\\repos\\CRUD-dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3377C-0607-423F-A6FE-5CAD2D0AFB2D}|CRUD-dotnet\\CRUDdotnet.csproj|c:\\users\\sandy 3laa\\source\\repos\\crud-dotnet\\crud-dotnet\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C3377C-0607-423F-A6FE-5CAD2D0AFB2D}|CRUD-dotnet\\CRUDdotnet.csproj|solutionrelative:crud-dotnet\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C3377C-0607-423F-A6FE-5CAD2D0AFB2D}|CRUD-dotnet\\CRUDdotnet.csproj|c:\\users\\sandy 3laa\\source\\repos\\crud-dotnet\\crud-dotnet\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C3377C-0607-423F-A6FE-5CAD2D0AFB2D}|CRUD-dotnet\\CRUDdotnet.csproj|solutionrelative:crud-dotnet\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Sandy 3Laa\\source\\repos\\CRUD-dotnet\\CRUD-dotnet\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CRUD-dotnet\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Sandy 3Laa\\source\\repos\\CRUD-dotnet\\CRUD-dotnet\\Models\\Student.cs",
+              "RelativeToolTip": "CRUD-dotnet\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T18:53:40.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Sandy 3Laa\\source\\repos\\CRUD-dotnet\\CRUD-dotnet\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "CRUD-dotnet\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Sandy 3Laa\\source\\repos\\CRUD-dotnet\\CRUD-dotnet\\Models\\Department.cs",
+              "RelativeToolTip": "CRUD-dotnet\\Models\\Department.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T18:53:36.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
